@@ -27,9 +27,9 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/EqMTCcxdCZgHUJNl5KooCr',
+	yt: 'https://weplystudio.my.id',
+	gh: 'https://weplystudio.my.id',
+	gc: 'https://weplystudio.my.id',
 	ch: '120363250409960161@newsletter',
 }
 
